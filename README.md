@@ -9,6 +9,10 @@ This repository contains Python programs I wrote while learning Python and probl
 - Palindrome Check
 - Prime Number Check
 - Largest and Second Largest Element
+- Dictionary operations
+- List operations
+- Calculator app using functions
+- grade calculation using functions
 
 #Learning Goals:
 - Improve Python fundamentals
